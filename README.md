@@ -11,4 +11,4 @@
 
 ## 스탯표
 
-[![archethic's GitHub stats](https://github-readme-stats.vercel.app/api?username=archethicx&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![archethic's GitHub stats](https://github-readme-stats.vercel.app/api?username=archethic&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
